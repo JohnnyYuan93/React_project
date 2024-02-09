@@ -4,7 +4,7 @@ This is my personal website, showcasing my portfolio and sharing information abo
 
 ## Description
 
-My personal website is designed to serve as an online portfolio, providing visitors with information about my skills, projects, and experiences. The site aims to showcase my work and create a positive online presence.
+My personal website is designed to serve as an online portfolio, providing visitors with information about myself, projects, and experiences.
 
 ## Features
 
